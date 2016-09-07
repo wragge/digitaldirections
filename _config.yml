@@ -5,16 +5,16 @@ highlighter: rouge
 markdown:    kramdown
 lsi:         false
 permalink:   "/:title"
-baseurl: "/whpha2016"
+baseurl: "/aliaurls2016"
 kramdown:
 
 
 #gems:
 #  - jemoji
 
-title:       Telling stories with data
+title:       Slow data? Small data? Exploring human-sized alternatives in the big data deluge
 author:      Tim Sherratt
-description: Presentation for Working History, the annual conference of the Professional Historians Association.
+description: Presentation for ALIA URLS Seminar 2016
 
 sass:
   style:     :compressed
