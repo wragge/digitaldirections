@@ -1,10 +1,10 @@
 ---
 layout: slide
-title: "Slow data? Small data?"
+title: "Turning the inside out"
 ---
 
-#### Exploring human-sized alternatives in the big data deluge
+
 {: .centered }
-![Closed Access screenshot]({{ site.baseurl}}/assets/images/blackholenew.png)
+![Redactions screenshot]({{ site.baseurl}}/assets/images/redactions.jpg)
 
 ##### Tim Sherratt \| [@wragge](http://twitter.com/wragge){: .twitter} \| University of Canberra  \| [timsherratt.org](http://timsherratt.org/){: .external}

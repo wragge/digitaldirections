@@ -5,16 +5,16 @@ highlighter: rouge
 markdown:    kramdown
 lsi:         false
 permalink:   "/:title"
-baseurl: "/aliaurls2016"
+baseurl: "/asalinks"
 kramdown:
 
 
 #gems:
 #  - jemoji
 
-title:       Slow data? Small data? Exploring human-sized alternatives in the big data deluge
+title:       Turning the inside out
 author:      Tim Sherratt
-description: Presentation for ALIA URLS Seminar 2016
+description: Keynote for Australian Society of Archivists annual conference 2016
 
 sass:
   style:     :compressed
