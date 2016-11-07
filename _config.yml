@@ -5,16 +5,16 @@ highlighter: rouge
 markdown:    kramdown
 lsi:         false
 permalink:   "/:title"
-baseurl: "/asalinks"
+baseurl: "/gu2016"
 kramdown:
 
 
 #gems:
 #  - jemoji
 
-title:       Turning the inside out
+title:       Doing digital in the humanities
 author:      Tim Sherratt
-description: Keynote for Australian Society of Archivists annual conference 2016
+description: Seminar at Griffith University, November 2016
 
 sass:
   style:     :compressed

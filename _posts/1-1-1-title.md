@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Turning the inside out"
+title: "Doing digital in the humanities"
 ---
 
 
