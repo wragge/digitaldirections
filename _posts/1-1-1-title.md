@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Doing digital in the humanities"
+title: "Caring about access"
 ---
 
 
