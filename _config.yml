@@ -5,16 +5,16 @@ highlighter: rouge
 markdown:    kramdown
 lsi:         false
 permalink:   "/:title"
-baseurl: "/gu2016"
+baseurl: "/dd2016"
 kramdown:
 
 
 #gems:
 #  - jemoji
 
-title:       Doing digital in the humanities
+title:       Caring about access
 author:      Tim Sherratt
-description: Seminar at Griffith University, November 2016
+description: Digital Directions -- panel session on access and innovation
 
 sass:
   style:     :compressed
